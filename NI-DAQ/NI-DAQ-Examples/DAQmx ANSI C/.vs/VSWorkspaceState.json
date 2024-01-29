@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Analog In",
+    "\\Analog In\\Measure Voltage",
+    "\\Analog In\\Measure Voltage\\Acq-Ext Clk"
+  ],
+  "SelectedNode": "\\Analog In\\Measure Voltage\\Acq-Ext Clk\\Makefile",
+  "PreviewInSolutionExplorer": false
+}
